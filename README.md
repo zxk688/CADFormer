@@ -15,7 +15,7 @@ The code has been verified to work with PyTorch v1.8.1 and Python 3.7, other ver
 ## Datasets
 
 We created the RRSIS-HR dataset based on the [RSVG-HR](https://github.com/LANMNG/LQVG) dataset. It can be downloaded from [Baidu Netdisk](https://pan.baidu.com/s/1bv1_rFjevsEbC1WCZkx6XQ?pwd=wust).
-Another dataset, RRSIS-D, could be downloaded from [Here](https://drive.google.com/drive/folders/1Xqi3Am2Vgm4a5tHqiV9tfaqKNovcuK3A).
+Another dataset used in this study is [RRSIS-D](https://drive.google.com/drive/folders/1Xqi3Am2Vgm4a5tHqiV9tfaqKNovcuK3A).
 
 ## Acknowledgements
 
