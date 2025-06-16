@@ -2,7 +2,19 @@
 
 This is a repository for releasing a PyTorch implementation of our work that has been accepted by IEEE JSTARS with a large-scale dataset named RRSIS-HR.
 
-
+If you find this research or dataset useful for your research, please cite our paper:
+```
+@ARTICLE{11023843,
+  author={Liu, Maofu and Jiang, Xin and Zhang, Xiaokang},
+  journal={IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing}, 
+  title={CADFormer: Fine-Grained Cross-modal Alignment and Decoding Transformer for Referring Remote Sensing Image Segmentation}, 
+  year={2025},
+  volume={},
+  number={},
+  pages={1-14},
+  keywords={Remote sensing;Visualization;Image segmentation;Decoding;Semantics;Sports;Feature extraction;Transformers;Accuracy;Semantic segmentation;Referring image segmentation;remote sensing;cross-modal alignment},
+  doi={10.1109/JSTARS.2025.3576595}}
+```
 
 
 ## Setting Up
