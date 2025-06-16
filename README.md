@@ -1,6 +1,6 @@
 # CADFormer
 
-This is a repository for releasing a PyTorch implementation of our work that has been accepted by IEEE JSTARS with a large-scale dataset named RRSIS-HR.
+This is a repository for releasing a PyTorch implementation of [our work](https://ieeexplore.ieee.org/abstract/document/11023843) that has been accepted by IEEE JSTARS with a large-scale dataset named RRSIS-HR.
 
 If you find this research or dataset useful for your research, please cite our paper:
 ```
