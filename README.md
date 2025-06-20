@@ -4,16 +4,16 @@ This is a repository for releasing a PyTorch implementation of [our work](https:
 
 If you find this research or dataset useful for your research, please cite our paper:
 ```
-@ARTICLE{11039674,
-  author={Liu, Maofu and Liu, Jiahui and Zhang, Xiaokang},
+@ARTICLE{11023843,
+  author={Liu, Maofu and Jiang, Xin and Zhang, Xiaokang},
   journal={IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing}, 
-  title={Semantic-Spatial Feature Fusion with Dynamic Graph Refinement for Remote Sensing Image Captioning}, 
+  title={CADFormer: Fine-Grained Cross-Modal Alignment and Decoding Transformer for Referring Remote Sensing Image Segmentation}, 
   year={2025},
-  volume={},
+  volume={18},
   number={},
-  pages={1-14},
-  keywords={Feature extraction;Visualization;Semantics;Remote sensing;Attention mechanisms;Decoding;Transformers;Vectors;Sensors;Convolutional neural networks;Remote sensing image captioning;feature fusion;graph attention;dynamic weighting mechanism},
-  doi={10.1109/JSTARS.2025.3580686}}
+  pages={14557-14569},
+  keywords={Remote sensing;Visualization;Image segmentation;Decoding;Semantics;Sports;Feature extraction;Transformers;Accuracy;Semantic segmentation;Cross-modal alignment;referring image segmentation (RIS);remote sensing},
+  doi={10.1109/JSTARS.2025.3576595}}
 ```
 
 
