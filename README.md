@@ -26,7 +26,7 @@ The code has been verified to work with PyTorch v1.8.1 and Python 3.7, other ver
 
 ## Datasets
 
-The proposed RRSIS-HR can be downloaded from [Baidu Netdisk](https://pan.baidu.com/s/1VG6sxkOuzeWelE7zkVv1Sw?pwd=wust) or [One Drive](https://onedrive.live.com/?ls=true&cid=9D2E24A3EBA4223F&id=9D2E24A3EBA4223F%21s9594f91279ad492d8d8ed1c3e8d628e5&parId=root&o=OneUp).
+The proposed RRSIS-HR can be downloaded from [Baidu Netdisk](https://pan.baidu.com/s/1VG6sxkOuzeWelE7zkVv1Sw?pwd=wust) or [OneDrive](https://onedrive.live.com/?ls=true&cid=9D2E24A3EBA4223F&id=9D2E24A3EBA4223F%21s9594f91279ad492d8d8ed1c3e8d628e5&parId=root&o=OneUp).
 Another dataset used in this study is [RRSIS-D](https://drive.google.com/drive/folders/1Xqi3Am2Vgm4a5tHqiV9tfaqKNovcuK3A).
 
 ## Acknowledgements
