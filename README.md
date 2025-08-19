@@ -19,7 +19,7 @@ If you find this research or dataset useful for your research, please cite our p
 
 ## Setting Up
 
-The code has been verified to work with PyTorch v1.8.1 and Python 3.7, other versions may also be compatible.
+The code has been verified to work with PyTorch v1.8.1 and Python 3.7, and other versions may also be compatible.
 
 1. Follow [RMSIN](https://github.com/Lsan2401/RMSIN) instructions for environment set-up.
 2. Download [pretrained weights](https://github.com/SwinTransformer/storage/releases/download/v1.0.0/swin_base_patch4_window12_384_22k.pth) and [BERT weights](https://huggingface.co/google-bert/bert-base-uncased).
