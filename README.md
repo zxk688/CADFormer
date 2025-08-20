@@ -1,8 +1,6 @@
 # CADFormer
 
-This repository contains the official PyTorch implementation of  
-**[CADFormer: Fine-Grained Cross-Modal Alignment and Decoding Transformer for Referring Remote Sensing Image Segmentation](https://ieeexplore.ieee.org/abstract/document/11023843)**,  
-accepted for publication in *IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (JSTARS)*.  
+This repository contains the official PyTorch implementation of **[CADFormer: Fine-Grained Cross-Modal Alignment and Decoding Transformer for Referring Remote Sensing Image Segmentation](https://ieeexplore.ieee.org/abstract/document/11023843)**, accepted for publication in *IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (JSTARS)*.  
 
 Along with CADFormer, we also release a **large-scale referring remote sensing segmentation benchmark**, **RRSIS-HR**, to advance research in cross-modal understanding for remote sensing imagery.
 
