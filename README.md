@@ -50,9 +50,7 @@ The codebase has been verified with **PyTorch 1.8.1** and **Python 3.7**, but ot
 This repository builds upon the excellent open-source contributions of:  
 - [RMSIN](https://github.com/Lsan2401/RMSIN)  
 - [LAVT](https://github.com/yz93/LAVT-RIS)  
-
-The proposed **RRSIS-HR** dataset is constructed based on [RSVG-HR](https://github.com/LANMNG/LQVG).  
-We sincerely thank the authors for their valuable efforts and open sharing of code and data.  
+The proposed **RRSIS-HR** dataset is constructed based on [RSVG-HR](https://github.com/LANMNG/LQVG). We sincerely thank the authors for their valuable efforts and open sharing of code and data.  
 
 ---
 
