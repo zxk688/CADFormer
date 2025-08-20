@@ -4,21 +4,6 @@ This repository contains the official PyTorch implementation of **[CADFormer: Fi
 
 Along with CADFormer, we also release a **large-scale referring remote sensing segmentation benchmark**, **RRSIS-HR**, to advance research in cross-modal understanding for remote sensing imagery.
 
-## 📑 Citation
-If you find this research or dataset useful for your research, please cite our paper:
-```
-@ARTICLE{11023843,
-  author={Liu, Maofu and Jiang, Xin and Zhang, Xiaokang},
-  journal={IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing}, 
-  title={CADFormer: Fine-Grained Cross-Modal Alignment and Decoding Transformer for Referring Remote Sensing Image Segmentation}, 
-  year={2025},
-  volume={18},
-  number={},
-  pages={14557-14569},
-  keywords={Remote sensing;Visualization;Image segmentation;Decoding;Semantics;Sports;Feature extraction;Transformers;Accuracy;Semantic segmentation;Cross-modal alignment;referring image segmentation (RIS);remote sensing},
-  doi={10.1109/JSTARS.2025.3576595}}
-```
-
 
 
 ---
@@ -59,4 +44,19 @@ The proposed **RRSIS-HR** dataset is constructed based on [RSVG-HR](https://gith
 - **CADFormer** introduces fine-grained cross-modal alignment and decoding strategies tailored for referring segmentation in remote sensing imagery.  
 - **RRSIS-HR** provides the largest high-resolution benchmark to date for referring image segmentation in the remote sensing domain.  
 - Designed to facilitate reproducibility, benchmarking, and future research in multimodal learning for Earth observation.  
+
+## 📑 Citation
+If you find this research or dataset useful for your research, please cite our paper:
+```
+@ARTICLE{11023843,
+  author={Liu, Maofu and Jiang, Xin and Zhang, Xiaokang},
+  journal={IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing}, 
+  title={CADFormer: Fine-Grained Cross-Modal Alignment and Decoding Transformer for Referring Remote Sensing Image Segmentation}, 
+  year={2025},
+  volume={18},
+  number={},
+  pages={14557-14569},
+  keywords={Remote sensing;Visualization;Image segmentation;Decoding;Semantics;Sports;Feature extraction;Transformers;Accuracy;Semantic segmentation;Cross-modal alignment;referring image segmentation (RIS);remote sensing},
+  doi={10.1109/JSTARS.2025.3576595}}
+```
 
