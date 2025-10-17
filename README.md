@@ -1,4 +1,4 @@
-# CADFormer
+# CADFormer and Referring Remote Sensing Segmentation Benchmark (RRSIS-HR)
 
 This repository contains the official PyTorch implementation of **[CADFormer: Fine-Grained Cross-Modal Alignment and Decoding Transformer for Referring Remote Sensing Image Segmentation](https://ieeexplore.ieee.org/abstract/document/11023843)**, accepted for publication in *IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (JSTARS)*.  
 
