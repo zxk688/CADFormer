@@ -4,6 +4,7 @@ This repository contains the official PyTorch implementation of **[CADFormer: Fi
 
 Along with CADFormer, we also release a **large-scale referring remote sensing segmentation benchmark**, **RRSIS-HR**, to advance research in cross-modal understanding for remote sensing imagery.
 
+![Framework](RRSIS-HRdata.png)
 
 
 ---
